@@ -1,2 +1,0 @@
-# healthy
-Proyecto Janai/Ramos
